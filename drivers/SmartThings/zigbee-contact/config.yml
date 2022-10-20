@@ -1,4 +1,5 @@
-name: 'Zigbee Contact'
-packageKey: 'zigbee-contact'
+name: 'Zigbee Contact (Add Hej)'
+packageKey: 'zigbee-contact-v2-add-hej'
+description: 'source: https://github.com/byjjoon/SmartThingsEdgeDrivers/tree/J/drivers/SmartThings/zigbee-contact'
 permissions:
   zigbee: {}

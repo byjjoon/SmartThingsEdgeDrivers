@@ -1,4 +1,14 @@
 zigbeeManufacturer:
+  - id: "TUYATEC/ktge2vqt Open/Close Sensor"
+    deviceLabel: Hej Home Open/Close Sensor
+    manufacturer: TUYATEC-ktge2vqt
+    model: RH3001
+    deviceProfileName: contact-battery-profile
+  - id: "TUYATEC/nznq0233 Open/Close Sensor"
+    deviceLabel: TUYATEC-nznq0233 Open/Close Sensor
+    manufacturer: TUYATEC-nznq0233
+    model: RH3001
+    deviceProfileName: contact-battery-profile
   - id: "LUMI/lumi.magnet.agl02"
     deviceLabel: Aqara Door and Window Sensor T1
     manufacturer: LUMI
