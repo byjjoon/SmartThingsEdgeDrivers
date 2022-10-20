@@ -1,4 +1,14 @@
 zigbeeManufacturer:
+  - id: "TUYATEC-smmlguju/Motion"
+    deviceLabel: Hej Home Motion Sensor
+    manufacturer: TUYATEC-smmlguju
+    model: RH3040
+    deviceProfileName: motion-battery
+  - id: "TUYATEC-53o41joc/Motion"
+    deviceLabel: TUYATEC Motion Sensor
+    manufacturer: TUYATEC-53o41joc
+    model: RH3040
+    deviceProfileName: motion-battery
   - id: "LUMI/lumi.motion.agl02"
     deviceLabel: Aqara Motion Sensor T1
     manufacturer: LUMI
